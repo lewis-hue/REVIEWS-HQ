@@ -2,7 +2,7 @@
 
 # Reviews HQ - AI-Powered Property Management Analytics Platform
 
-![Reviews HQ](frontend/public/flex.webp)
+![Reviews HQ](https://github.com/lewis-hue/REVIEWS-HQ/blob/main/flex.webp)
 
 
 ## **Table of Contents**
@@ -31,19 +31,19 @@ Here is a glimpse of the key pages within the Reviews HQ platform:
 **| Dashboard Overview |**
 
 
-| ![Dashboard Overview](https://storage.googleapis.com/generativeai-downloads/images/user/default/d88d30e527b19a164923ac356a5966c52701e8281d2979208a0d24e18b849e8a.png) | 
+| ![Dashboard Overview](https://github.com/lewis-hue/REVIEWS-HQ/blob/main/Screenshot%20from%202025-11-16%2022-48-22.png) | 
 
 **| Reviews Management |**
 
-![Reviews Management](https://storage.googleapis.com/generativeai-downloads/images/user/default/498ef01f35a4209587428f52054cd08307684347718e001e792e92c206bb35da.png) |
+![Reviews Management](https://github.com/lewis-hue/REVIEWS-HQ/blob/main/Screenshot%20from%202025-11-16%2022-49-03.png) |
 
 **| Properties Portfolio |**
 
-| ![Properties Page](https://storage.googleapis.com/generativeai-downloads/images/user/default/a859a5d7c3d2ab7ca0706509b552250280f56a312d8a9e707d7265c879d74996.png) | 
+| ![Properties Page](https://github.com/lewis-hue/REVIEWS-HQ/blob/main/Screenshot%20from%202025-11-16%2022-49-59.png) | 
 
 **| AI-Powered Analytics |**
 
-![AI-Powered Analytics Page](https://storage.googleapis.com/generativeai-downloads/images/user/default/1498b8fd9f456c64142646d3fdc305370603f269a9bd14d642a8b9e671239c5b.png) |
+![AI-Powered Analytics Page](https://github.com/lewis-hue/REVIEWS-HQ/blob/main/Screenshot%20from%202025-11-16%2023-34-00.png) |
 
 
 ## **Core Features**
