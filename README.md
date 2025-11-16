@@ -31,19 +31,27 @@ Here is a glimpse of the key pages within the Reviews HQ platform:
 **| Dashboard Overview |**
 
 
-| ![Dashboard Overview](https://github.com/lewis-hue/REVIEWS-HQ/blob/main/Screenshot%20from%202025-11-16%2022-48-22.png) | 
+| ![Dashboard Overview](https://github.com/lewis-hue/REVIEWS-HQ/blob/main/Screenshot%20from%202025-11-16%2022-48-22.png) 
 
 **| Reviews Management |**
 
-![Reviews Management](https://github.com/lewis-hue/REVIEWS-HQ/blob/main/Screenshot%20from%202025-11-16%2022-49-03.png) |
+![Reviews Management](https://github.com/lewis-hue/REVIEWS-HQ/blob/main/Screenshot%20from%202025-11-16%2022-49-03.png) 
 
 **| Properties Portfolio |**
 
-| ![Properties Page](https://github.com/lewis-hue/REVIEWS-HQ/blob/main/Screenshot%20from%202025-11-16%2022-49-59.png) | 
+| ![Properties Page](https://github.com/lewis-hue/REVIEWS-HQ/blob/main/Screenshot%20from%202025-11-16%2022-49-59.png) 
 
 **| AI-Powered Analytics |**
 
-![AI-Powered Analytics Page](https://github.com/lewis-hue/REVIEWS-HQ/blob/main/Screenshot%20from%202025-11-16%2023-34-00.png) |
+![AI-Powered Analytics Page- View 1](https://github.com/lewis-hue/REVIEWS-HQ/blob/main/Screenshot%20from%202025-11-16%2023-34-00.png)
+
+![AI-Powered Analytics Page - View 2](https://github.com/lewis-hue/REVIEWS-HQ/blob/main/Screenshot%20from%202025-11-16%2023-55-04.png)
+
+![AI-Powered Analytics Page- View 3](https://github.com/lewis-hue/REVIEWS-HQ/blob/main/Screenshot%20from%202025-11-16%2023-55-23.png)
+
+![AI-Powered Analytics Page- View 4](https://github.com/lewis-hue/REVIEWS-HQ/blob/main/Screenshot%20from%202025-11-16%2023-55-36.png)
+
+![AI-Powered Analytics Page- View 5](https://github.com/lewis-hue/REVIEWS-HQ/blob/main/Screenshot%20from%202025-11-16%2023-56-41.png)
 
 
 ## **Core Features**
